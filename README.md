@@ -1,2 +1,1 @@
-# PrepCourse
-repositorio de prueba
+este es mi primer repositorio de prueba 
